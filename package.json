@@ -1,0 +1,24 @@
+{
+  "name": "flix-tv",
+  "version": "1.0.0",
+  "description": "A simple overview app of tv shows, using the open source tv maze api -> https://www.tvmaze.com/api",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuidoKleine/flix-tv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GuidoKleine/flix-tv/issues"
+  },
+  "homepage": "https://github.com/GuidoKleine/flix-tv#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "vue": "^2.6.12"
+  },
+  "devDependencies": {}
+}
